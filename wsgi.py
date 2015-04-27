@@ -188,7 +188,7 @@ class Hello(object):
     <body onload="brython()">
         
     <form method=POST action=mygeartest>
-
+    <p>姓名:顏邦智  學號:40023154
     <p>齒數:
     <select name=N>
     <option>10
